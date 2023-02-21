@@ -1,0 +1,12 @@
+npm install -g lite-server
+mkdir firstdapp
+cd firstdapp
+
+在 https://remix.ethereum.org/  编译通过 拿到abi 和 合约address
+供js的调用 
+const MoodContractAddress = "";
+const MoodContractABI = 
+
+创建 index.html
+
+lite-server
